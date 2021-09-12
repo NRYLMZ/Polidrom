@@ -1,0 +1,7 @@
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\bin\Debug\PolidromSorusu.exe.config
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\bin\Debug\PolidromSorusu.exe
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\bin\Debug\PolidromSorusu.pdb
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\obj\Debug\PolidromSorusu.csprojAssemblyReference.cache
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\obj\Debug\PolidromSorusu.csproj.CoreCompileInputs.cache
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\obj\Debug\PolidromSorusu.exe
+C:\Users\nurul\source\repos\PolidromSorusu\PolidromSorusu\obj\Debug\PolidromSorusu.pdb
